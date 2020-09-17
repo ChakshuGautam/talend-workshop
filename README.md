@@ -37,7 +37,7 @@ New Concept
   "postgres_port": 5432,
   "postgres_database": "postgres",
   "postgres_username": "postgres",
-  "postgres_password": "nfcSXQ8k211P3hXfHLOgdJerrk69MVXUxlFD8zOuIPzv7vyoOwb6eXbNRnlqJzOM"
+  "postgres_password": ""
 }
 ```
 
@@ -56,12 +56,12 @@ Steps
 - Connect it to the database
 
 New Concepts
-- Schema
+- Schema: Is how the data is defined in a Database. It could be file as well. Datatypes: String, Integer, Decimal, JSON, etc. It is a generic definition of data and tt helps translate data from one format to another. 
 
 ### 5. Extract data out of PSQL, transform and load it to Excel
 
 New Concepts
-- Map
+- Map: How one fields translates to another in a different format.
 
 Steps
 - Adding events-2 to the table
